@@ -42,3 +42,5 @@ trl
 
 # for audio 
 librosa
+soundfile
+numba
